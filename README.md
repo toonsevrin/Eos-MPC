@@ -3,7 +3,7 @@ The goal for this repo is to find a way to encode a secret in the blockchain tha
 
 
 ## Motivation
-Let's say I want to sent someone a private message over the blockchain, but he should only be able to read it after some conditions are met. Is there a way to do this in a decentralised manner?
+Let's say I want to sent someone a private message over the blockchain, and ensure it too be delivered, even if I die, but the receiver should only be able to read it after some conditions are met. Is there a way to do this in a decentralised manner?
 
 ## Proposal
 Suppose Bob wants to send a secret to Alice, which she can only see after a timestamp has passed. 
